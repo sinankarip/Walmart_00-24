@@ -58,7 +58,7 @@ This project aims to predict Walmart’s stock prices between 2000 and 2004 usin
 
 🛠️ Technologies & Tools
 
-    Python (Pandas, NumPy, Scikit-learn, XGBoost)
+    Python (Pandas, NumPy, Scikit-learn, XGBoost,LSTM,RNN,GRU)
 
     Data visualization with Matplotlib and Seaborn
 
